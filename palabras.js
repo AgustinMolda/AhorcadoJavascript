@@ -1,0 +1,2 @@
+const words = ['carne','rata','elefante','martillo','cine','lustrar','serpiente','nariz','intergalactico','ramo','alfombra','heladera','tiburon','europa',
+                    'calefon','futbol','revolver','laser','proyectil','castillo','escoba','escalon'];
